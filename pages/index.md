@@ -1,5 +1,5 @@
 ---
-title: Welcome to Evidence
+title: Welcome to Evidence on Firebase 🔥
 ---
 
 <Details title='How to edit this page'>
